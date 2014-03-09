@@ -2649,7 +2649,14 @@
         "time": 3187,
         "yards to first down": 3,
         "yards to goal": 37
-      }
+      },
+      "turnovers": [
+        {
+          "by": "away",
+          "recovered": "home",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 140,
@@ -3041,9 +3048,9 @@
         "home": 28
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3439,
-        "yards to goal": 70
+        "yards to goal": 30
       }
     },
     {
@@ -3057,10 +3064,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3445,
         "yards to first down": 10,
-        "yards to goal": 42
+        "yards to goal": 58
       }
     },
     {
@@ -3074,10 +3081,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3464,
         "yards to first down": 5,
-        "yards to goal": 37
+        "yards to goal": 63
       }
     },
     {
@@ -3089,7 +3096,7 @@
             "accepted": true,
             "name": "Defensive Offside",
             "offender": "Kevin Carter",
-            "team": "home",
+            "team": "away",
             "yards": 4
           }
         ]
@@ -3103,10 +3110,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3480,
         "yards to first down": 5,
-        "yards to goal": 37
+        "yards to goal": 63
       }
     },
     {
@@ -3120,10 +3127,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3480,
         "yards to first down": 1,
-        "yards to goal": 33
+        "yards to goal": 67
       }
     },
     {
@@ -3137,10 +3144,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3504,
         "yards to first down": 10,
-        "yards to goal": 24
+        "yards to goal": 76
       }
     },
     {
@@ -3154,10 +3161,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3524,
         "yards to first down": 17,
-        "yards to goal": 31
+        "yards to goal": 69
       }
     },
     {
@@ -3171,10 +3178,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3548,
         "yards to first down": 11,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -3188,10 +3195,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3556,
         "yards to first down": 10,
-        "yards to goal": 13
+        "yards to goal": 87
       }
     },
     {
@@ -3205,10 +3212,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3575,
         "yards to first down": 5,
-        "yards to goal": 8
+        "yards to goal": 92
       }
     },
     {
@@ -3226,10 +3233,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3582,
         "yards to first down": 5,
-        "yards to goal": 8
+        "yards to goal": 92
       }
     },
     {
@@ -3246,7 +3253,7 @@
         "home": 28
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3582
       }
     },
@@ -3259,7 +3266,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Drew Bennett",
-            "team": "home",
+            "team": "away",
             "yards": 10
           }
         ]

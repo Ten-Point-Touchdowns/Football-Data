@@ -332,7 +332,14 @@
         "time": 370,
         "yards to first down": 9,
         "yards to goal": 48
-      }
+      },
+      "turnovers": [
+        {
+          "by": "home",
+          "recovered": "home",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 17,
@@ -1580,7 +1587,14 @@
         "time": 1950,
         "yards to first down": 8,
         "yards to goal": 45
-      }
+      },
+      "turnovers": [
+        {
+          "by": "away",
+          "recovered": "away",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 86,
@@ -2205,9 +2219,9 @@
         "home": 24
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 2849,
-        "yards to goal": 70
+        "yards to goal": 30
       }
     },
     {
@@ -2221,10 +2235,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2855,
         "yards to first down": 10,
-        "yards to goal": 58
+        "yards to goal": 42
       }
     },
     {
@@ -2238,10 +2252,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 2888,
         "yards to first down": 3,
-        "yards to goal": 51
+        "yards to goal": 49
       }
     },
     {
@@ -2255,10 +2269,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2925,
         "yards to first down": 10,
-        "yards to goal": 45
+        "yards to goal": 55
       }
     },
     {
@@ -2272,10 +2286,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 2963,
         "yards to first down": 4,
-        "yards to goal": 39
+        "yards to goal": 61
       }
     },
     {
@@ -2287,7 +2301,7 @@
             "accepted": true,
             "name": "Illegal Contact",
             "offender": "Quentin Jammer",
-            "team": "home",
+            "team": "away",
             "yards": 5
           }
         ]
@@ -2301,10 +2315,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 2969,
         "yards to first down": 4,
-        "yards to goal": 39
+        "yards to goal": 61
       }
     },
     {
@@ -2318,10 +2332,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2975,
         "yards to first down": 10,
-        "yards to goal": 34
+        "yards to goal": 66
       }
     },
     {
@@ -2335,10 +2349,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3011,
         "yards to first down": 10,
-        "yards to goal": 17
+        "yards to goal": 83
       }
     },
     {
@@ -2352,10 +2366,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3051,
         "yards to first down": 4,
-        "yards to goal": 11
+        "yards to goal": 89
       }
     },
     {
@@ -2369,10 +2383,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3097,
         "yards to first down": 4,
-        "yards to goal": 11
+        "yards to goal": 89
       }
     },
     {
@@ -2386,10 +2400,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3138,
         "yards to first down": 1,
-        "yards to goal": 8
+        "yards to goal": 92
       }
     },
     {
@@ -2407,10 +2421,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3172,
         "yards to first down": 3,
-        "yards to goal": 3
+        "yards to goal": 97
       }
     },
     {
@@ -2427,7 +2441,7 @@
         "home": 24
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3172
       }
     },

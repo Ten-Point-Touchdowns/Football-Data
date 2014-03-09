@@ -1686,7 +1686,14 @@
         "time": 1882,
         "yards to first down": 3,
         "yards to goal": 73
-      }
+      },
+      "turnovers": [
+        {
+          "by": "away",
+          "recovered": "home",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 93,
@@ -3204,9 +3211,9 @@
         "home": 33
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3519,
-        "yards to goal": 70
+        "yards to goal": 30
       }
     },
     {
@@ -3220,10 +3227,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3528,
         "yards to first down": 10,
-        "yards to goal": 55
+        "yards to goal": 45
       }
     },
     {
@@ -3237,10 +3244,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3549,
         "yards to first down": 2,
-        "yards to goal": 47
+        "yards to goal": 53
       }
     },
     {
@@ -3254,10 +3261,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3564,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -3271,10 +3278,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3564,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -3288,10 +3295,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3572,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -3305,10 +3312,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3580,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -3320,7 +3327,7 @@
             "accepted": false,
             "name": "Offensive Holding",
             "offender": "Jeremy Newberry",
-            "team": "away"
+            "team": "home"
           }
         ]
       },
@@ -3333,10 +3340,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3585,
         "yards to first down": 10,
-        "yards to goal": 31
+        "yards to goal": 69
       },
       "turnovers": [
         {
@@ -3357,10 +3364,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3595,
         "yards to first down": 10,
-        "yards to goal": 60
+        "yards to goal": 40
       }
     }
   ],

@@ -1226,7 +1226,14 @@
         "time": 1544,
         "yards to first down": 1,
         "yards to goal": 82
-      }
+      },
+      "turnovers": [
+        {
+          "by": "home",
+          "recovered": "away",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 64,
@@ -2801,9 +2808,9 @@
         "home": 23
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3255,
-        "yards to goal": 70
+        "yards to goal": 30
       }
     },
     {
@@ -2815,7 +2822,7 @@
             "accepted": true,
             "name": "Defensive Offside",
             "offender": "Alex Brown",
-            "team": "home",
+            "team": "away",
             "yards": 5
           }
         ]
@@ -2829,10 +2836,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3261,
         "yards to first down": 10,
-        "yards to goal": 56
+        "yards to goal": 44
       }
     },
     {
@@ -2844,7 +2851,7 @@
             "accepted": true,
             "name": "False Start",
             "offender": "Jason Whittle",
-            "team": "away",
+            "team": "home",
             "yards": 5
           }
         ]
@@ -2858,10 +2865,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3261,
         "yards to first down": 5,
-        "yards to goal": 51
+        "yards to goal": 49
       }
     },
     {
@@ -2875,10 +2882,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3294,
         "yards to first down": 10,
-        "yards to goal": 56
+        "yards to goal": 44
       }
     },
     {
@@ -2892,10 +2899,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3328,
         "yards to first down": 2,
-        "yards to goal": 48
+        "yards to goal": 52
       }
     },
     {
@@ -2908,7 +2915,7 @@
         "home": 23
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3335
       }
     },
@@ -2921,7 +2928,7 @@
             "accepted": true,
             "name": "False Start",
             "offender": "Mike Rosenthal",
-            "team": "away",
+            "team": "home",
             "yards": 5
           }
         ]
@@ -2935,10 +2942,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3335,
         "yards to first down": 2,
-        "yards to goal": 48
+        "yards to goal": 52
       }
     },
     {
@@ -2952,10 +2959,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3336,
         "yards to first down": 7,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -2981,10 +2988,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3336,
         "yards to first down": 17,
-        "yards to goal": 63
+        "yards to goal": 37
       }
     },
     {
@@ -2998,10 +3005,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3377,
         "yards to first down": 22,
-        "yards to goal": 68
+        "yards to goal": 32
       }
     },
     {
@@ -3015,10 +3022,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3383,
         "yards to first down": 10,
-        "yards to goal": 66
+        "yards to goal": 34
       }
     },
     {
@@ -3030,146 +3037,6 @@
             "accepted": true,
             "name": "False Start",
             "offender": "Roberto Garza",
-            "team": "home",
-            "yards": 5
-          }
-        ]
-      },
-      "play": {
-        "type": "penalty"
-      },
-      "score": {
-        "away": 13,
-        "home": 23
-      },
-      "state": {
-        "down": 2,
-        "offense": "home",
-        "time": 3383,
-        "yards to first down": 15,
-        "yards to goal": 71
-      }
-    },
-    {
-      "number": 161,
-      "play": {
-        "type": "run"
-      },
-      "score": {
-        "away": 13,
-        "home": 23
-      },
-      "state": {
-        "down": 2,
-        "offense": "home",
-        "time": 3427,
-        "yards to first down": 20,
-        "yards to goal": 76
-      }
-    },
-    {
-      "number": 162,
-      "play": {
-        "type": "timeout"
-      },
-      "score": {
-        "away": 13,
-        "home": 23
-      },
-      "state": {
-        "offense": "home",
-        "time": 3432
-      }
-    },
-    {
-      "number": 163,
-      "play": {
-        "type": "incomplete pass"
-      },
-      "score": {
-        "away": 13,
-        "home": 23
-      },
-      "state": {
-        "down": 3,
-        "offense": "home",
-        "time": 3432,
-        "yards to first down": 19,
-        "yards to goal": 75
-      }
-    },
-    {
-      "number": 164,
-      "penalty": {
-        "no play": true,
-        "penalties": [
-          {
-            "accepted": true,
-            "name": "Offensive Holding",
-            "offender": "Darrell McClover",
-            "team": "home",
-            "yards": 10
-          }
-        ]
-      },
-      "play": {
-        "type": "punt"
-      },
-      "score": {
-        "away": 13,
-        "home": 23
-      },
-      "state": {
-        "down": 4,
-        "offense": "home",
-        "time": 3432,
-        "yards to first down": 19,
-        "yards to goal": 75
-      }
-    },
-    {
-      "number": 165,
-      "play": {
-        "type": "punt"
-      },
-      "score": {
-        "away": 13,
-        "home": 23
-      },
-      "state": {
-        "down": 4,
-        "offense": "home",
-        "time": 3449,
-        "yards to first down": 29,
-        "yards to goal": 85
-      }
-    },
-    {
-      "number": 166,
-      "play": {
-        "type": "complete pass"
-      },
-      "score": {
-        "away": 13,
-        "home": 23
-      },
-      "state": {
-        "down": 1,
-        "offense": "away",
-        "time": 3460,
-        "yards to first down": 10,
-        "yards to goal": 59
-      }
-    },
-    {
-      "number": 167,
-      "penalty": {
-        "no play": true,
-        "penalties": [
-          {
-            "accepted": true,
-            "name": "False Start",
-            "offender": "Jermaine Wiggins",
             "team": "away",
             "yards": 5
           }
@@ -3185,9 +3052,149 @@
       "state": {
         "down": 2,
         "offense": "away",
+        "time": 3383,
+        "yards to first down": 15,
+        "yards to goal": 29
+      }
+    },
+    {
+      "number": 161,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 13,
+        "home": 23
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 3427,
+        "yards to first down": 20,
+        "yards to goal": 24
+      }
+    },
+    {
+      "number": 162,
+      "play": {
+        "type": "timeout"
+      },
+      "score": {
+        "away": 13,
+        "home": 23
+      },
+      "state": {
+        "offense": "away",
+        "time": 3432
+      }
+    },
+    {
+      "number": 163,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 13,
+        "home": 23
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 3432,
+        "yards to first down": 19,
+        "yards to goal": 25
+      }
+    },
+    {
+      "number": 164,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "Offensive Holding",
+            "offender": "Darrell McClover",
+            "team": "away",
+            "yards": 10
+          }
+        ]
+      },
+      "play": {
+        "type": "punt"
+      },
+      "score": {
+        "away": 13,
+        "home": 23
+      },
+      "state": {
+        "down": 4,
+        "offense": "away",
+        "time": 3432,
+        "yards to first down": 19,
+        "yards to goal": 25
+      }
+    },
+    {
+      "number": 165,
+      "play": {
+        "type": "punt"
+      },
+      "score": {
+        "away": 13,
+        "home": 23
+      },
+      "state": {
+        "down": 4,
+        "offense": "away",
+        "time": 3449,
+        "yards to first down": 29,
+        "yards to goal": 15
+      }
+    },
+    {
+      "number": 166,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 13,
+        "home": 23
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 3460,
+        "yards to first down": 10,
+        "yards to goal": 41
+      }
+    },
+    {
+      "number": 167,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "False Start",
+            "offender": "Jermaine Wiggins",
+            "team": "home",
+            "yards": 5
+          }
+        ]
+      },
+      "play": {
+        "type": "penalty"
+      },
+      "score": {
+        "away": 13,
+        "home": 23
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
         "time": 3480,
         "yards to first down": 6,
-        "yards to goal": 55
+        "yards to goal": 45
       }
     },
     {
@@ -3201,10 +3208,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3480,
         "yards to first down": 11,
-        "yards to goal": 60
+        "yards to goal": 40
       }
     },
     {
@@ -3218,10 +3225,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3484,
         "yards to first down": 11,
-        "yards to goal": 60
+        "yards to goal": 40
       }
     },
     {
@@ -3235,10 +3242,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3509,
         "yards to first down": 4,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -3251,7 +3258,7 @@
         "home": 23
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3520
       }
     },
@@ -3266,10 +3273,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3520,
         "yards to first down": 10,
-        "yards to goal": 29
+        "yards to goal": 71
       },
       "turnovers": [
         {
@@ -3290,10 +3297,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3528,
         "yards to first down": 10,
-        "yards to goal": 73
+        "yards to goal": 27
       }
     },
     {
@@ -3307,10 +3314,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 3565,
         "yards to first down": 12,
-        "yards to goal": 75
+        "yards to goal": 25
       }
     }
   ],

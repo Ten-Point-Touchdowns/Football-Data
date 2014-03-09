@@ -169,10 +169,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 0,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -186,10 +186,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 34,
         "yards to first down": 5,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -203,10 +203,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 68,
         "yards to first down": 10,
-        "yards to goal": 33
+        "yards to goal": 67
       }
     },
     {
@@ -220,10 +220,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 100,
         "yards to first down": 3,
-        "yards to goal": 40
+        "yards to goal": 60
       }
     },
     {
@@ -237,10 +237,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 136,
         "yards to first down": 10,
-        "yards to goal": 45
+        "yards to goal": 55
       }
     },
     {
@@ -254,10 +254,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 168,
         "yards to first down": 9,
-        "yards to goal": 46
+        "yards to goal": 54
       }
     },
     {
@@ -271,10 +271,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 201,
         "yards to first down": 1,
-        "yards to goal": 54
+        "yards to goal": 46
       }
     },
     {
@@ -288,10 +288,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 241,
         "yards to first down": 1,
-        "yards to goal": 54
+        "yards to goal": 46
       }
     },
     {
@@ -305,10 +305,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 241,
         "yards to first down": 1,
-        "yards to goal": 54
+        "yards to goal": 46
       }
     },
     {
@@ -326,10 +326,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 277,
         "yards to first down": 10,
-        "yards to goal": 56
+        "yards to goal": 44
       }
     },
     {
@@ -346,9 +346,9 @@
         "home": 7
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 277,
-        "yards to goal": 56
+        "yards to goal": 44
       }
     },
     {
@@ -377,10 +377,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 292,
         "yards to first down": 10,
-        "yards to goal": 38
+        "yards to goal": 62
       }
     },
     {
@@ -394,10 +394,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 297,
         "yards to first down": 10,
-        "yards to goal": 38
+        "yards to goal": 62
       }
     },
     {
@@ -411,10 +411,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 333,
         "yards to first down": 5,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -432,10 +432,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 372,
         "yards to first down": 10,
-        "yards to goal": 52
+        "yards to goal": 48
       }
     },
     {
@@ -452,9 +452,9 @@
         "home": 7
       },
       "state": {
-        "offense": "home",
+        "offense": "away",
         "time": 372,
-        "yards to goal": 52
+        "yards to goal": 48
       }
     },
     {
@@ -481,69 +481,6 @@
             "accepted": true,
             "name": "Encroachment",
             "offender": "Gerald McCoy",
-            "team": "home",
-            "yards": 5
-          }
-        ]
-      },
-      "play": {
-        "type": "penalty"
-      },
-      "score": {
-        "away": 7,
-        "home": 7
-      },
-      "state": {
-        "down": 1,
-        "offense": "away",
-        "time": 380,
-        "yards to first down": 10,
-        "yards to goal": 20
-      }
-    },
-    {
-      "number": 20,
-      "play": {
-        "type": "run"
-      },
-      "score": {
-        "away": 7,
-        "home": 7
-      },
-      "state": {
-        "down": 1,
-        "offense": "away",
-        "time": 380,
-        "yards to first down": 5,
-        "yards to goal": 25
-      }
-    },
-    {
-      "number": 21,
-      "play": {
-        "type": "complete pass"
-      },
-      "score": {
-        "away": 7,
-        "home": 7
-      },
-      "state": {
-        "down": 2,
-        "offense": "away",
-        "time": 418,
-        "yards to first down": 9,
-        "yards to goal": 21
-      }
-    },
-    {
-      "number": 22,
-      "penalty": {
-        "no play": true,
-        "penalties": [
-          {
-            "accepted": true,
-            "name": "False Start",
-            "offender": "Jimmy Graham",
             "team": "away",
             "yards": 5
           }
@@ -557,11 +494,74 @@
         "home": 7
       },
       "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 380,
+        "yards to first down": 10,
+        "yards to goal": 80
+      }
+    },
+    {
+      "number": 20,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 380,
+        "yards to first down": 5,
+        "yards to goal": 75
+      }
+    },
+    {
+      "number": 21,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 418,
+        "yards to first down": 9,
+        "yards to goal": 79
+      }
+    },
+    {
+      "number": 22,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "False Start",
+            "offender": "Jimmy Graham",
+            "team": "home",
+            "yards": 5
+          }
+        ]
+      },
+      "play": {
+        "type": "penalty"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 457,
         "yards to first down": 3,
-        "yards to goal": 27
+        "yards to goal": 73
       }
     },
     {
@@ -575,10 +575,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 485,
         "yards to first down": 8,
-        "yards to goal": 22
+        "yards to goal": 78
       }
     },
     {
@@ -592,10 +592,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 504,
         "yards to first down": 10,
-        "yards to goal": 31
+        "yards to goal": 69
       }
     },
     {
@@ -621,10 +621,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 546,
         "yards to first down": 10,
-        "yards to goal": 64
+        "yards to goal": 36
       }
     },
     {
@@ -638,10 +638,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 582,
         "yards to first down": 17,
-        "yards to goal": 57
+        "yards to goal": 43
       }
     },
     {
@@ -655,10 +655,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 617,
         "yards to first down": 12,
-        "yards to goal": 62
+        "yards to goal": 38
       }
     },
     {
@@ -672,10 +672,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 662,
         "yards to first down": 10,
-        "yards to goal": 86
+        "yards to goal": 14
       }
     },
     {
@@ -693,10 +693,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 707,
         "yards to first down": 6,
-        "yards to goal": 90
+        "yards to goal": 10
       }
     },
     {
@@ -713,9 +713,9 @@
         "home": 14
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 707,
-        "yards to goal": 90
+        "yards to goal": 10
       }
     },
     {
@@ -742,7 +742,7 @@
             "accepted": true,
             "name": "False Start",
             "offender": "Brian Leonard",
-            "team": "home",
+            "team": "away",
             "yards": 5
           }
         ]
@@ -756,10 +756,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 712,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -773,10 +773,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 712,
         "yards to first down": 15,
-        "yards to goal": 15
+        "yards to goal": 85
       }
     },
     {
@@ -790,10 +790,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 751,
         "yards to first down": 5,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -807,10 +807,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 793,
         "yards to first down": 1,
-        "yards to goal": 29
+        "yards to goal": 71
       }
     },
     {
@@ -824,10 +824,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 828,
         "yards to first down": 10,
-        "yards to goal": 31
+        "yards to goal": 69
       }
     },
     {
@@ -841,10 +841,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 873,
         "yards to first down": 6,
-        "yards to goal": 35
+        "yards to goal": 65
       }
     },
     {
@@ -858,10 +858,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 880,
         "yards to first down": 6,
-        "yards to goal": 35
+        "yards to goal": 65
       }
     },
     {
@@ -875,10 +875,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 900,
         "yards to first down": 11,
-        "yards to goal": 30
+        "yards to goal": 70
       }
     },
     {
@@ -892,10 +892,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 909,
         "yards to first down": 10,
-        "yards to goal": 18
+        "yards to goal": 82
       }
     },
     {
@@ -909,10 +909,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 944,
         "yards to first down": 10,
-        "yards to goal": 30
+        "yards to goal": 70
       }
     },
     {
@@ -926,10 +926,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 988,
         "yards to first down": 10,
-        "yards to goal": 45
+        "yards to goal": 55
       }
     },
     {
@@ -943,10 +943,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 994,
         "yards to first down": 10,
-        "yards to goal": 45
+        "yards to goal": 55
       }
     },
     {
@@ -960,10 +960,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 1029,
         "yards to first down": 4,
-        "yards to goal": 51
+        "yards to goal": 49
       }
     },
     {
@@ -977,10 +977,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 1071,
         "yards to first down": 10,
-        "yards to goal": 64
+        "yards to goal": 36
       }
     },
     {
@@ -994,10 +994,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 1101,
         "yards to first down": 11,
-        "yards to goal": 63
+        "yards to goal": 37
       }
     },
     {
@@ -1011,10 +1011,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 1143,
         "yards to first down": 13,
-        "yards to goal": 61
+        "yards to goal": 39
       }
     },
     {
@@ -1028,7 +1028,7 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 1178,
         "yards to first down": 24,
         "yards to goal": 50
@@ -1045,10 +1045,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1188,
         "yards to first down": 10,
-        "yards to goal": 9
+        "yards to goal": 91
       }
     },
     {
@@ -1062,10 +1062,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1193,
         "yards to first down": 10,
-        "yards to goal": 9
+        "yards to goal": 91
       }
     },
     {
@@ -1079,10 +1079,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 1214,
         "yards to first down": 5,
-        "yards to goal": 14
+        "yards to goal": 86
       }
     },
     {
@@ -1096,10 +1096,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 1219,
         "yards to first down": 5,
-        "yards to goal": 14
+        "yards to goal": 86
       }
     },
     {
@@ -1113,10 +1113,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 1227,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -1130,10 +1130,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 1260,
         "yards to first down": 11,
-        "yards to goal": 42
+        "yards to goal": 58
       }
     },
     {
@@ -1147,10 +1147,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 1297,
         "yards to first down": 10,
-        "yards to goal": 59
+        "yards to goal": 41
       }
     },
     {
@@ -1164,10 +1164,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 1302,
         "yards to first down": 10,
-        "yards to goal": 59
+        "yards to goal": 41
       }
     },
     {
@@ -1185,10 +1185,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 1308,
         "yards to first down": 10,
-        "yards to goal": 59
+        "yards to goal": 41
       }
     },
     {
@@ -1205,9 +1205,9 @@
         "home": 21
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 1308,
-        "yards to goal": 59
+        "yards to goal": 41
       }
     },
     {
@@ -1236,10 +1236,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1316,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -1253,10 +1253,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1354,
         "yards to first down": 5,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -1270,10 +1270,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1375,
         "yards to first down": 10,
-        "yards to goal": 33
+        "yards to goal": 67
       }
     },
     {
@@ -1287,10 +1287,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1406,
         "yards to first down": 8,
-        "yards to goal": 35
+        "yards to goal": 65
       }
     },
     {
@@ -1304,10 +1304,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1443,
         "yards to first down": 10,
-        "yards to goal": 51
+        "yards to goal": 49
       }
     },
     {
@@ -1321,10 +1321,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1485,
         "yards to first down": 1,
-        "yards to goal": 60
+        "yards to goal": 40
       }
     },
     {
@@ -1338,10 +1338,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1520,
         "yards to first down": 10,
-        "yards to goal": 63
+        "yards to goal": 37
       }
     },
     {
@@ -1355,10 +1355,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1564,
         "yards to first down": 10,
-        "yards to goal": 87
+        "yards to goal": 13
       }
     },
     {
@@ -1372,10 +1372,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1588,
         "yards to first down": 10,
-        "yards to goal": 87
+        "yards to goal": 13
       }
     },
     {
@@ -1393,10 +1393,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1588,
         "yards to first down": 1,
-        "yards to goal": 99
+        "yards to goal": 1
       }
     },
     {
@@ -1413,9 +1413,9 @@
         "home": 21
       },
       "state": {
-        "offense": "home",
+        "offense": "away",
         "time": 1588,
-        "yards to goal": 99
+        "yards to goal": 1
       }
     },
     {
@@ -1444,10 +1444,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 1592,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -1461,10 +1461,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 1622,
         "yards to first down": 6,
-        "yards to goal": 24
+        "yards to goal": 76
       }
     },
     {
@@ -1482,10 +1482,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 1630,
         "yards to first down": 6,
-        "yards to goal": 24
+        "yards to goal": 76
       }
     },
     {
@@ -1502,9 +1502,9 @@
         "home": 28
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 1630,
-        "yards to goal": 24
+        "yards to goal": 76
       }
     },
     {
@@ -1533,10 +1533,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1644,
         "yards to first down": 10,
-        "yards to goal": 21
+        "yards to goal": 79
       }
     },
     {
@@ -1550,10 +1550,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1680,
         "yards to first down": 8,
-        "yards to goal": 23
+        "yards to goal": 77
       }
     },
     {
@@ -1565,7 +1565,7 @@
             "accepted": true,
             "name": "Roughing the Passer",
             "offender": "Tyrunn Walker",
-            "team": "away",
+            "team": "home",
             "yards": 15
           }
         ]
@@ -1579,10 +1579,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 1685,
         "yards to first down": 8,
-        "yards to goal": 23
+        "yards to goal": 77
       }
     },
     {
@@ -1596,10 +1596,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1692,
         "yards to first down": 10,
-        "yards to goal": 37
+        "yards to goal": 63
       }
     },
     {
@@ -1611,7 +1611,7 @@
             "accepted": true,
             "name": "Defensive Pass Interference",
             "offender": "Keenan Lewis",
-            "team": "away",
+            "team": "home",
             "yards": 6
           }
         ]
@@ -1625,10 +1625,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1697,
         "yards to first down": 10,
-        "yards to goal": 37
+        "yards to goal": 63
       }
     },
     {
@@ -1642,10 +1642,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1700,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -1659,10 +1659,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1724,
         "yards to first down": 10,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -1676,10 +1676,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1730,
         "yards to first down": 10,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -1693,10 +1693,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1730,
         "yards to first down": 1,
-        "yards to goal": 62
+        "yards to goal": 38
       }
     },
     {
@@ -1710,10 +1710,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1755,
         "yards to first down": 10,
-        "yards to goal": 75
+        "yards to goal": 25
       }
     },
     {
@@ -1727,10 +1727,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1760,
         "yards to first down": 10,
-        "yards to goal": 75
+        "yards to goal": 25
       }
     },
     {
@@ -1744,10 +1744,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1768,
         "yards to first down": 10,
-        "yards to goal": 75
+        "yards to goal": 25
       }
     },
     {
@@ -1761,10 +1761,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 1768,
         "yards to first down": 10,
-        "yards to goal": 75
+        "yards to goal": 25
       }
     },
     {
@@ -1778,10 +1778,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 1774,
         "yards to first down": 10,
-        "yards to goal": 75
+        "yards to goal": 25
       }
     },
     {
@@ -1795,10 +1795,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 1779,
         "yards to first down": 10,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -1827,10 +1827,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1800,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -1842,7 +1842,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Gabe Carimi",
-            "team": "home",
+            "team": "away",
             "yards": 10
           }
         ]
@@ -1856,10 +1856,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1833,
         "yards to first down": 9,
-        "yards to goal": 21
+        "yards to goal": 79
       }
     },
     {
@@ -1873,10 +1873,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1862,
         "yards to first down": 19,
-        "yards to goal": 11
+        "yards to goal": 89
       }
     },
     {
@@ -1890,10 +1890,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 1899,
         "yards to first down": 15,
-        "yards to goal": 15
+        "yards to goal": 85
       }
     },
     {
@@ -1907,10 +1907,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 1937,
         "yards to first down": 10,
-        "yards to goal": 39
+        "yards to goal": 61
       }
     },
     {
@@ -1924,10 +1924,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 1976,
         "yards to first down": 6,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -1941,10 +1941,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2025,
         "yards to first down": 6,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -1956,7 +1956,7 @@
             "accepted": true,
             "name": "False Start",
             "offender": "Tim Wright",
-            "team": "home",
+            "team": "away",
             "yards": 5
           }
         ]
@@ -1970,10 +1970,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2025,
         "yards to first down": 1,
-        "yards to goal": 48
+        "yards to goal": 52
       }
     },
     {
@@ -1987,10 +1987,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2025,
         "yards to first down": 6,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -2004,10 +2004,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 2073,
         "yards to first down": 4,
-        "yards to goal": 45
+        "yards to goal": 55
       }
     },
     {
@@ -2021,10 +2021,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2108,
         "yards to first down": 10,
-        "yards to goal": 51
+        "yards to goal": 49
       }
     },
     {
@@ -2038,10 +2038,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2143,
         "yards to first down": 12,
-        "yards to goal": 49
+        "yards to goal": 51
       }
     },
     {
@@ -2055,10 +2055,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2168,
         "yards to first down": 10,
-        "yards to goal": 68
+        "yards to goal": 32
       }
     },
     {
@@ -2072,10 +2072,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2207,
         "yards to first down": 7,
-        "yards to goal": 71
+        "yards to goal": 29
       }
     },
     {
@@ -2101,10 +2101,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2248,
         "yards to first down": 11,
-        "yards to goal": 67
+        "yards to goal": 33
       }
     },
     {
@@ -2118,10 +2118,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2255,
         "yards to first down": 11,
-        "yards to goal": 67
+        "yards to goal": 33
       }
     },
     {
@@ -2135,10 +2135,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2255,
         "yards to first down": 26,
-        "yards to goal": 52
+        "yards to goal": 48
       }
     },
     {
@@ -2156,10 +2156,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 2299,
         "yards to first down": 14,
-        "yards to goal": 64
+        "yards to goal": 36
       }
     },
     {
@@ -2171,7 +2171,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Will Herring",
-            "team": "home",
+            "team": "away",
             "yards": 8
           }
         ]
@@ -2200,10 +2200,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2312,
         "yards to first down": 10,
-        "yards to goal": 8
+        "yards to goal": 92
       }
     },
     {
@@ -2217,10 +2217,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2351,
         "yards to first down": 10,
-        "yards to goal": 21
+        "yards to goal": 79
       }
     },
     {
@@ -2234,10 +2234,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 2393,
         "yards to first down": 6,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -2251,10 +2251,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 2398,
         "yards to first down": 6,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -2268,10 +2268,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2433,
         "yards to first down": 10,
-        "yards to goal": 49
+        "yards to goal": 51
       }
     },
     {
@@ -2285,10 +2285,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2478,
         "yards to first down": 10,
-        "yards to goal": 74
+        "yards to goal": 26
       }
     },
     {
@@ -2302,10 +2302,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 2520,
         "yards to first down": 3,
-        "yards to goal": 81
+        "yards to goal": 19
       }
     },
     {
@@ -2319,10 +2319,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2560,
         "yards to first down": 10,
-        "yards to goal": 89
+        "yards to goal": 11
       }
     },
     {
@@ -2336,10 +2336,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 2565,
         "yards to first down": 10,
-        "yards to goal": 89
+        "yards to goal": 11
       }
     },
     {
@@ -2357,10 +2357,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 2613,
         "yards to first down": 7,
-        "yards to goal": 92
+        "yards to goal": 8
       }
     },
     {
@@ -2377,9 +2377,9 @@
         "home": 35
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 2613,
-        "yards to goal": 92
+        "yards to goal": 8
       }
     },
     {
@@ -2408,10 +2408,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2618,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       },
       "turnovers": [
         {
@@ -2432,10 +2432,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2627,
         "yards to first down": 10,
-        "yards to goal": 75
+        "yards to goal": 25
       }
     },
     {
@@ -2449,10 +2449,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2663,
         "yards to first down": 10,
-        "yards to goal": 86
+        "yards to goal": 14
       }
     },
     {
@@ -2466,10 +2466,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 2700,
         "yards to first down": 8,
-        "yards to goal": 88
+        "yards to goal": 12
       }
     },
     {
@@ -2487,10 +2487,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 2746,
         "yards to first down": 5,
-        "yards to goal": 91
+        "yards to goal": 9
       }
     },
     {
@@ -2507,9 +2507,9 @@
         "home": 42
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 2746,
-        "yards to goal": 91
+        "yards to goal": 9
       }
     },
     {
@@ -2550,10 +2550,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2757,
         "yards to first down": 10,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -2565,7 +2565,7 @@
             "accepted": true,
             "name": "Roughing the Passer",
             "offender": "Akiem Hicks",
-            "team": "away",
+            "team": "home",
             "yards": 15
           }
         ]
@@ -2579,10 +2579,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2775,
         "yards to first down": 22,
-        "yards to goal": 13
+        "yards to goal": 87
       }
     },
     {
@@ -2596,10 +2596,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2782,
         "yards to first down": 10,
-        "yards to goal": 28
+        "yards to goal": 72
       }
     },
     {
@@ -2613,10 +2613,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2810,
         "yards to first down": 2,
-        "yards to goal": 36
+        "yards to goal": 64
       }
     },
     {
@@ -2630,10 +2630,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2810,
         "yards to first down": 2,
-        "yards to goal": 36
+        "yards to goal": 64
       }
     },
     {
@@ -2647,10 +2647,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 2851,
         "yards to first down": 3,
-        "yards to goal": 35
+        "yards to goal": 65
       }
     },
     {
@@ -2664,10 +2664,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 2859,
         "yards to first down": 10,
-        "yards to goal": 15
+        "yards to goal": 85
       }
     },
     {
@@ -2681,10 +2681,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 2892,
         "yards to first down": 9,
-        "yards to goal": 16
+        "yards to goal": 84
       }
     },
     {
@@ -2698,10 +2698,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 2935,
         "yards to first down": 7,
-        "yards to goal": 18
+        "yards to goal": 82
       }
     },
     {
@@ -2713,7 +2713,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Roman Harper",
-            "team": "away",
+            "team": "home",
             "yards": 10
           }
         ]
@@ -2727,10 +2727,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 2940,
         "yards to first down": 7,
-        "yards to goal": 18
+        "yards to goal": 82
       }
     },
     {
@@ -2744,10 +2744,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 2951,
         "yards to first down": 7,
-        "yards to goal": 18
+        "yards to goal": 82
       }
     },
     {
@@ -2759,7 +2759,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Bradley McDougald",
-            "team": "away",
+            "team": "home",
             "yards": 10
           }
         ]
@@ -2773,10 +2773,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 2951,
         "yards to first down": 17,
-        "yards to goal": 8
+        "yards to goal": 92
       }
     },
     {
@@ -2790,10 +2790,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2959,
         "yards to first down": 10,
-        "yards to goal": 45
+        "yards to goal": 55
       }
     },
     {
@@ -2807,10 +2807,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2988,
         "yards to first down": 8,
-        "yards to goal": 47
+        "yards to goal": 53
       }
     },
     {
@@ -2824,10 +2824,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2992,
         "yards to first down": 8,
-        "yards to goal": 47
+        "yards to goal": 53
       }
     },
     {
@@ -2841,10 +2841,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 2997,
         "yards to first down": 8,
-        "yards to goal": 47
+        "yards to goal": 53
       }
     },
     {
@@ -2858,10 +2858,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3000,
         "yards to first down": 10,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -2875,10 +2875,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3045,
         "yards to first down": 12,
-        "yards to goal": 51
+        "yards to goal": 49
       }
     },
     {
@@ -2892,10 +2892,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3093,
         "yards to first down": 8,
-        "yards to goal": 55
+        "yards to goal": 45
       }
     },
     {
@@ -2907,7 +2907,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Jed Collins",
-            "team": "away",
+            "team": "home",
             "yards": 10
           }
         ]
@@ -2921,10 +2921,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3140,
         "yards to first down": 3,
-        "yards to goal": 60
+        "yards to goal": 40
       }
     },
     {
@@ -2938,7 +2938,7 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3178,
         "yards to first down": 13,
         "yards to goal": 50
@@ -2955,10 +2955,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3187,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -2972,10 +2972,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 3191,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -2989,10 +2989,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 3195,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -3018,10 +3018,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 3201,
         "yards to first down": 10,
-        "yards to goal": 20
+        "yards to goal": 80
       }
     },
     {
@@ -3035,10 +3035,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3208,
         "yards to first down": 10,
-        "yards to goal": 52
+        "yards to goal": 48
       }
     },
     {
@@ -3052,10 +3052,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3254,
         "yards to first down": 10,
-        "yards to goal": 52
+        "yards to goal": 48
       }
     },
     {
@@ -3069,7 +3069,7 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3300,
         "yards to first down": 12,
         "yards to goal": 50
@@ -3086,10 +3086,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3350,
         "yards to first down": 9,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -3103,10 +3103,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3358,
         "yards to first down": 10,
-        "yards to goal": 14
+        "yards to goal": 86
       }
     },
     {
@@ -3120,10 +3120,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3389,
         "yards to first down": 10,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -3137,10 +3137,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 3395,
         "yards to first down": 10,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -3154,10 +3154,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 3400,
         "yards to first down": 10,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -3171,10 +3171,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 3441,
         "yards to first down": 13,
-        "yards to goal": 22
+        "yards to goal": 78
       }
     },
     {
@@ -3188,10 +3188,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3449,
         "yards to first down": 10,
-        "yards to goal": 26
+        "yards to goal": 74
       }
     },
     {
@@ -3205,10 +3205,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3480,
         "yards to first down": 9,
-        "yards to goal": 27
+        "yards to goal": 73
       }
     },
     {
@@ -3222,10 +3222,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3524,
         "yards to first down": 11,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -3239,10 +3239,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3570,
         "yards to first down": 11,
-        "yards to goal": 25
+        "yards to goal": 75
       }
     },
     {
@@ -3256,10 +3256,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3570,
         "yards to first down": 6,
-        "yards to goal": 30
+        "yards to goal": 70
       }
     },
     {
@@ -3273,10 +3273,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3572,
         "yards to first down": 10,
-        "yards to goal": 72
+        "yards to goal": 28
       }
     }
   ],

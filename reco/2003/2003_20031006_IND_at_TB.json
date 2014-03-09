@@ -1579,7 +1579,14 @@
         "offense": "away",
         "time": 1796,
         "yards to goal": 30
-      }
+      },
+      "turnovers": [
+        {
+          "by": "away",
+          "recovered": "away",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 85,
@@ -2810,9 +2817,9 @@
         "home": 35
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3377,
-        "yards to goal": 70
+        "yards to goal": 30
       }
     },
     {
@@ -2824,7 +2831,7 @@
             "accepted": false,
             "name": "Defensive Offside",
             "offender": "Simeon Rice",
-            "team": "home"
+            "team": "away"
           }
         ]
       },
@@ -2837,10 +2844,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3383,
         "yards to first down": 10,
-        "yards to goal": 58
+        "yards to goal": 42
       }
     },
     {
@@ -2854,10 +2861,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3393,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -2871,10 +2878,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3403,
         "yards to first down": 10,
-        "yards to goal": 32
+        "yards to goal": 68
       }
     },
     {
@@ -2886,7 +2893,7 @@
             "accepted": true,
             "name": "False Start",
             "offender": "Tarik Glenn",
-            "team": "away",
+            "team": "home",
             "yards": 5
           }
         ]
@@ -2900,10 +2907,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3413,
         "yards to first down": 10,
-        "yards to goal": 32
+        "yards to goal": 68
       }
     },
     {
@@ -2917,10 +2924,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3413,
         "yards to first down": 15,
-        "yards to goal": 37
+        "yards to goal": 63
       }
     },
     {
@@ -2934,10 +2941,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3425,
         "yards to first down": 6,
-        "yards to goal": 28
+        "yards to goal": 72
       }
     },
     {
@@ -2955,10 +2962,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3442,
         "yards to first down": 6,
-        "yards to goal": 28
+        "yards to goal": 72
       }
     },
     {
@@ -2975,7 +2982,7 @@
         "home": 35
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3442
       }
     },
