@@ -1,0 +1,2823 @@
+{
+  "away team": "CIN",
+  "betting": {
+    "over under": 42.0,
+    "spread": -5.5,
+    "winner": "home"
+  },
+  "datetime": {
+    "date": "2004-09-12",
+    "start time": "13:00"
+  },
+  "home team": "NYJ",
+  "officials": {
+    "back judge": "Jim Howey",
+    "field judge": "Duke Carroll",
+    "head linesman": "John Schleyer",
+    "line judge": "Jeff Seeman",
+    "referee": "Jeff Triplette",
+    "side judge": "Greg Meyer",
+    "umpire": "Scott Dawson"
+  },
+  "players": {
+    "away": {},
+    "home": {}
+  },
+  "plays": [
+    {
+      "number": 0,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 0,
+        "home": 0
+      },
+      "state": {
+        "offense": "home",
+        "time": 0,
+        "yards to goal": 30
+      },
+      "turnovers": [
+        {
+          "by": "home",
+          "recovered": "away",
+          "type": "fumble"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 0,
+        "home": 0
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 8,
+        "yards to first down": 10,
+        "yards to goal": 25
+      }
+    },
+    {
+      "number": 2,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 0,
+        "home": 0
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 41,
+        "yards to first down": 4,
+        "yards to goal": 19
+      }
+    },
+    {
+      "number": 3,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 0,
+        "home": 0
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 105,
+        "yards to first down": 4,
+        "yards to goal": 19
+      }
+    },
+    {
+      "number": 4,
+      "play": {
+        "scoring": {
+          "team": "away",
+          "type": "touchdown"
+        },
+        "type": "run"
+      },
+      "score": {
+        "away": 6,
+        "home": 0
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 138,
+        "yards to first down": 9,
+        "yards to goal": 9
+      }
+    },
+    {
+      "number": 5,
+      "play": {
+        "scoring": {
+          "team": "away",
+          "type": "extra point"
+        },
+        "type": "extra point"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "offense": "away",
+        "time": 138
+      }
+    },
+    {
+      "number": 6,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "offense": "home",
+        "time": 138,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 7,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 150,
+        "yards to first down": 10,
+        "yards to goal": 68
+      }
+    },
+    {
+      "number": 8,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 186,
+        "yards to first down": 5,
+        "yards to goal": 63
+      }
+    },
+    {
+      "number": 9,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 225,
+        "yards to first down": 10,
+        "yards to goal": 51
+      }
+    },
+    {
+      "number": 10,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 263,
+        "yards to first down": 8,
+        "yards to goal": 49
+      }
+    },
+    {
+      "number": 11,
+      "penalty": {
+        "no play": false,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "Roughing the Passer",
+            "offender": "Justin Smith",
+            "team": "away",
+            "yards": 9
+          }
+        ]
+      },
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 269,
+        "yards to first down": 8,
+        "yards to goal": 49
+      }
+    },
+    {
+      "number": 12,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 292,
+        "yards to first down": 9,
+        "yards to goal": 9
+      }
+    },
+    {
+      "number": 13,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 0
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 324,
+        "yards to first down": 4,
+        "yards to goal": 4
+      }
+    },
+    {
+      "number": 14,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "touchdown"
+        },
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 6
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 367,
+        "yards to first down": 3,
+        "yards to goal": 3
+      }
+    },
+    {
+      "number": 15,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "extra point"
+        },
+        "type": "extra point"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "offense": "home",
+        "time": 367
+      }
+    },
+    {
+      "number": 16,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "offense": "away",
+        "time": 367,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 17,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 379,
+        "yards to first down": 10,
+        "yards to goal": 66
+      }
+    },
+    {
+      "number": 18,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "Offensive Holding",
+            "offender": "Bobbie Williams",
+            "team": "away",
+            "yards": 10
+          }
+        ]
+      },
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 412,
+        "yards to first down": 2,
+        "yards to goal": 58
+      }
+    },
+    {
+      "number": 19,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 434,
+        "yards to first down": 12,
+        "yards to goal": 68
+      }
+    },
+    {
+      "number": 20,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "Defensive Offside (Offsetting)",
+            "offender": "Shaun Ellis",
+            "team": "home"
+          },
+          {
+            "accepted": true,
+            "name": "Offensive Holding (Offsetting) (no play)",
+            "offender": "Willie Anderson",
+            "team": "away"
+          }
+        ]
+      },
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 440,
+        "yards to first down": 12,
+        "yards to goal": 68
+      }
+    },
+    {
+      "number": 21,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 468,
+        "yards to first down": 12,
+        "yards to goal": 68
+      }
+    },
+    {
+      "number": 22,
+      "play": {
+        "type": "punt"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 4,
+        "offense": "away",
+        "time": 505,
+        "yards to first down": 3,
+        "yards to goal": 59
+      }
+    },
+    {
+      "number": 23,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 516,
+        "yards to first down": 10,
+        "yards to goal": 86
+      }
+    },
+    {
+      "number": 24,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 553,
+        "yards to first down": 2,
+        "yards to goal": 78
+      }
+    },
+    {
+      "number": 25,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 586,
+        "yards to first down": 10,
+        "yards to goal": 57
+      }
+    },
+    {
+      "number": 26,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 616,
+        "yards to first down": 2,
+        "yards to goal": 49
+      }
+    },
+    {
+      "number": 27,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 7
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 657,
+        "yards to first down": 1,
+        "yards to goal": 48
+      }
+    },
+    {
+      "number": 28,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "touchdown"
+        },
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 13
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 703,
+        "yards to first down": 10,
+        "yards to goal": 46
+      }
+    },
+    {
+      "number": 29,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "extra point"
+        },
+        "type": "extra point"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "offense": "home",
+        "time": 703
+      }
+    },
+    {
+      "number": 30,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "offense": "away",
+        "time": 703,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 31,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 719,
+        "yards to first down": 10,
+        "yards to goal": 70
+      }
+    },
+    {
+      "number": 32,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 743,
+        "yards to first down": 10,
+        "yards to goal": 55
+      }
+    },
+    {
+      "number": 33,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 747,
+        "yards to first down": 10,
+        "yards to goal": 55
+      }
+    },
+    {
+      "number": 34,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 789,
+        "yards to first down": 16,
+        "yards to goal": 61
+      }
+    },
+    {
+      "number": 35,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 827,
+        "yards to first down": 10,
+        "yards to goal": 41
+      }
+    },
+    {
+      "number": 36,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 865,
+        "yards to first down": 11,
+        "yards to goal": 42
+      }
+    },
+    {
+      "number": 37,
+      "play": {
+        "type": "sack"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 873,
+        "yards to first down": 11,
+        "yards to goal": 42
+      }
+    },
+    {
+      "number": 38,
+      "play": {
+        "type": "punt"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 4,
+        "offense": "away",
+        "time": 900,
+        "yards to first down": 21,
+        "yards to goal": 52
+      }
+    },
+    {
+      "number": 39,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 911,
+        "yards to first down": 10,
+        "yards to goal": 97
+      }
+    },
+    {
+      "number": 40,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "Tripping",
+            "offender": "Kevin Mawae",
+            "team": "home",
+            "yards": 7
+          }
+        ]
+      },
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 949,
+        "yards to first down": 10,
+        "yards to goal": 86
+      }
+    },
+    {
+      "number": 41,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 956,
+        "yards to first down": 17,
+        "yards to goal": 93
+      }
+    },
+    {
+      "number": 42,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 998,
+        "yards to first down": 13,
+        "yards to goal": 89
+      }
+    },
+    {
+      "number": 43,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 1034,
+        "yards to first down": 1,
+        "yards to goal": 77
+      }
+    },
+    {
+      "number": 44,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 1078,
+        "yards to first down": 10,
+        "yards to goal": 73
+      }
+    },
+    {
+      "number": 45,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 1119,
+        "yards to first down": 5,
+        "yards to goal": 68
+      }
+    },
+    {
+      "number": 46,
+      "play": {
+        "type": "timeout"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "offense": "home",
+        "time": 1155
+      }
+    },
+    {
+      "number": 47,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 1155,
+        "yards to first down": 10,
+        "yards to goal": 57
+      }
+    },
+    {
+      "number": 48,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 1197,
+        "yards to first down": 10,
+        "yards to goal": 41
+      }
+    },
+    {
+      "number": 49,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 1243,
+        "yards to first down": 5,
+        "yards to goal": 36
+      }
+    },
+    {
+      "number": 50,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 1249,
+        "yards to first down": 5,
+        "yards to goal": 36
+      }
+    },
+    {
+      "number": 51,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 4,
+        "offense": "home",
+        "time": 1255,
+        "yards to first down": 5,
+        "yards to goal": 36
+      },
+      "turnovers": [
+        {
+          "by": "home",
+          "recovered": "home",
+          "type": "fumble"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 1298,
+        "yards to first down": 4,
+        "yards to goal": 55
+      }
+    },
+    {
+      "number": 54,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 1338,
+        "yards to first down": 7,
+        "yards to goal": 58
+      }
+    },
+    {
+      "number": 55,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 1381,
+        "yards to first down": 10,
+        "yards to goal": 49
+      }
+    },
+    {
+      "number": 56,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 1405,
+        "yards to first down": 2,
+        "yards to goal": 41
+      }
+    },
+    {
+      "number": 57,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 1442,
+        "yards to first down": 1,
+        "yards to goal": 40
+      }
+    },
+    {
+      "number": 58,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 1477,
+        "yards to first down": 10,
+        "yards to goal": 37
+      }
+    },
+    {
+      "number": 59,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 1512,
+        "yards to first down": 5,
+        "yards to goal": 32
+      }
+    },
+    {
+      "number": 60,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 1547,
+        "yards to first down": 7,
+        "yards to goal": 7
+      }
+    },
+    {
+      "number": 61,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 1552,
+        "yards to first down": 7,
+        "yards to goal": 7
+      }
+    },
+    {
+      "number": 62,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 7,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 1594,
+        "yards to first down": 4,
+        "yards to goal": 4
+      }
+    },
+    {
+      "number": 63,
+      "play": {
+        "scoring": {
+          "team": "away",
+          "type": "field goal"
+        },
+        "type": "field goal"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 4,
+        "offense": "away",
+        "time": 1594,
+        "yards to first down": 4,
+        "yards to goal": 4
+      }
+    },
+    {
+      "number": 64,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "offense": "home",
+        "time": 1594,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 65,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 1606,
+        "yards to first down": 10,
+        "yards to goal": 82
+      }
+    },
+    {
+      "number": 66,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 1646,
+        "yards to first down": 10,
+        "yards to goal": 58
+      }
+    },
+    {
+      "number": 67,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 1646,
+        "yards to first down": 7,
+        "yards to goal": 55
+      }
+    },
+    {
+      "number": 68,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 1685,
+        "yards to first down": 5,
+        "yards to goal": 53
+      }
+    },
+    {
+      "number": 69,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 1715,
+        "yards to first down": 10,
+        "yards to goal": 46
+      }
+    },
+    {
+      "number": 70,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 1729,
+        "yards to first down": 5,
+        "yards to goal": 41
+      }
+    },
+    {
+      "number": 71,
+      "play": {
+        "type": "sack"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 1729,
+        "yards to first down": 10,
+        "yards to goal": 32
+      },
+      "turnovers": [
+        {
+          "by": "home",
+          "recovered": "home",
+          "type": "fumble"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 1740,
+        "yards to first down": 15,
+        "yards to goal": 37
+      }
+    },
+    {
+      "number": 73,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 1761,
+        "yards to first down": 13,
+        "yards to goal": 35
+      }
+    },
+    {
+      "number": 74,
+      "play": {
+        "type": "punt"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 4,
+        "offense": "home",
+        "time": 1768,
+        "yards to first down": 13,
+        "yards to goal": 35
+      }
+    },
+    {
+      "number": 75,
+      "play": {
+        "type": "kneel"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 1775,
+        "yards to first down": 10,
+        "yards to goal": 80
+      }
+    },
+    {
+      "number": 76,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "offense": "away",
+        "time": 1775,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 77,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 1800,
+        "yards to first down": 10,
+        "yards to goal": 80
+      }
+    },
+    {
+      "number": 78,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 1835,
+        "yards to first down": 8,
+        "yards to goal": 78
+      }
+    },
+    {
+      "number": 79,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 1895,
+        "yards to first down": 8,
+        "yards to goal": 78
+      }
+    },
+    {
+      "number": 80,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 1915,
+        "yards to first down": 10,
+        "yards to goal": 68
+      }
+    },
+    {
+      "number": 81,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 14
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 1928,
+        "yards to first down": 7,
+        "yards to goal": 65
+      }
+    },
+    {
+      "number": 82,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "touchdown"
+        },
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 20
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 1973,
+        "yards to first down": 10,
+        "yards to goal": 57
+      },
+      "turnovers": [
+        {
+          "by": "away",
+          "recovered": "home",
+          "type": "fumble"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "extra point"
+        },
+        "type": "extra point"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "offense": "home",
+        "time": 1973
+      }
+    },
+    {
+      "number": 84,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "offense": "away",
+        "time": 1973,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 85,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 1990,
+        "yards to first down": 10,
+        "yards to goal": 71
+      }
+    },
+    {
+      "number": 86,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 2023,
+        "yards to first down": 7,
+        "yards to goal": 68
+      }
+    },
+    {
+      "number": 87,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 2059,
+        "yards to first down": 10,
+        "yards to goal": 52
+      }
+    },
+    {
+      "number": 88,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 2101,
+        "yards to first down": 10,
+        "yards to goal": 36
+      }
+    },
+    {
+      "number": 89,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 2124,
+        "yards to first down": 1,
+        "yards to goal": 27
+      }
+    },
+    {
+      "number": 90,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 2162,
+        "yards to first down": 10,
+        "yards to goal": 24
+      }
+    },
+    {
+      "number": 91,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 2169,
+        "yards to first down": 10,
+        "yards to goal": 24
+      }
+    },
+    {
+      "number": 92,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 2207,
+        "yards to first down": 8,
+        "yards to goal": 22
+      }
+    },
+    {
+      "number": 93,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 2242,
+        "yards to first down": 10,
+        "yards to goal": 11
+      }
+    },
+    {
+      "number": 94,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 10,
+        "home": 21
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 2269,
+        "yards to first down": 5,
+        "yards to goal": 6
+      }
+    },
+    {
+      "number": 95,
+      "play": {
+        "scoring": {
+          "team": "away",
+          "type": "touchdown"
+        },
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 16,
+        "home": 21
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 2306,
+        "yards to first down": 5,
+        "yards to goal": 6
+      }
+    },
+    {
+      "number": 96,
+      "play": {
+        "type": "timeout"
+      },
+      "score": {
+        "away": 16,
+        "home": 21
+      },
+      "state": {
+        "offense": "away",
+        "time": 2320
+      }
+    },
+    {
+      "number": 97,
+      "play": {
+        "scoring": {
+          "team": "away",
+          "type": "extra point"
+        },
+        "type": "extra point"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "offense": "away",
+        "time": 2320
+      }
+    },
+    {
+      "number": 98,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "offense": "home",
+        "time": 2320,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 99,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 2325,
+        "yards to first down": 10,
+        "yards to goal": 69
+      }
+    },
+    {
+      "number": 100,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 2364,
+        "yards to first down": 1,
+        "yards to goal": 60
+      }
+    },
+    {
+      "number": 101,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 2401,
+        "yards to first down": 10,
+        "yards to goal": 51
+      }
+    },
+    {
+      "number": 102,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 2438,
+        "yards to first down": 6,
+        "yards to goal": 47
+      }
+    },
+    {
+      "number": 103,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 2473,
+        "yards to first down": 10,
+        "yards to goal": 40
+      }
+    },
+    {
+      "number": 104,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 2516,
+        "yards to first down": 10,
+        "yards to goal": 29
+      }
+    },
+    {
+      "number": 105,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 2551,
+        "yards to first down": 10,
+        "yards to goal": 10
+      }
+    },
+    {
+      "number": 106,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 2589,
+        "yards to first down": 7,
+        "yards to goal": 7
+      }
+    },
+    {
+      "number": 107,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 21
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 2633,
+        "yards to first down": 10,
+        "yards to goal": 10
+      }
+    },
+    {
+      "number": 108,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "field goal"
+        },
+        "type": "field goal"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 4,
+        "offense": "home",
+        "time": 2670,
+        "yards to first down": 3,
+        "yards to goal": 3
+      }
+    },
+    {
+      "number": 109,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "offense": "away",
+        "time": 2670,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 110,
+      "penalty": {
+        "no play": false,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "Illegal Crackback",
+            "offender": "Kelley Washington",
+            "team": "away",
+            "yards": 15
+          }
+        ]
+      },
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 2681,
+        "yards to first down": 10,
+        "yards to goal": 70
+      }
+    },
+    {
+      "number": 111,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 2700,
+        "yards to first down": 22,
+        "yards to goal": 82
+      }
+    },
+    {
+      "number": 112,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 2700,
+        "yards to first down": 19,
+        "yards to goal": 79
+      }
+    },
+    {
+      "number": 113,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 2739,
+        "yards to first down": 19,
+        "yards to goal": 79
+      }
+    },
+    {
+      "number": 114,
+      "play": {
+        "type": "punt"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 4,
+        "offense": "away",
+        "time": 2746,
+        "yards to first down": 19,
+        "yards to goal": 79
+      }
+    },
+    {
+      "number": 115,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 2758,
+        "yards to first down": 10,
+        "yards to goal": 65
+      }
+    },
+    {
+      "number": 116,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 2762,
+        "yards to first down": 10,
+        "yards to goal": 65
+      }
+    },
+    {
+      "number": 117,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 2804,
+        "yards to first down": 1,
+        "yards to goal": 56
+      }
+    },
+    {
+      "number": 118,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 2843,
+        "yards to first down": 10,
+        "yards to goal": 54
+      }
+    },
+    {
+      "number": 119,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 2849,
+        "yards to first down": 10,
+        "yards to goal": 54
+      }
+    },
+    {
+      "number": 120,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 2889,
+        "yards to first down": 3,
+        "yards to goal": 47
+      }
+    },
+    {
+      "number": 121,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 2934,
+        "yards to first down": 10,
+        "yards to goal": 33
+      }
+    },
+    {
+      "number": 122,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 24
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 2976,
+        "yards to first down": 4,
+        "yards to goal": 27
+      }
+    },
+    {
+      "number": 123,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "touchdown"
+        },
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 30
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 3018,
+        "yards to first down": 1,
+        "yards to goal": 24
+      }
+    },
+    {
+      "number": 124,
+      "play": {
+        "scoring": {
+          "team": "home",
+          "type": "extra point"
+        },
+        "type": "extra point"
+      },
+      "score": {
+        "away": 17,
+        "home": 31
+      },
+      "state": {
+        "offense": "home",
+        "time": 3018
+      }
+    },
+    {
+      "number": 125,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 17,
+        "home": 31
+      },
+      "state": {
+        "offense": "away",
+        "time": 3018,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 126,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3031,
+        "yards to first down": 10,
+        "yards to goal": 77
+      }
+    },
+    {
+      "number": 127,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 31
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 3058,
+        "yards to first down": 2,
+        "yards to goal": 69
+      }
+    },
+    {
+      "number": 128,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 17,
+        "home": 31
+      },
+      "state": {
+        "down": 3,
+        "offense": "away",
+        "time": 3095,
+        "yards to first down": 1,
+        "yards to goal": 68
+      }
+    },
+    {
+      "number": 129,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "False Start",
+            "offender": "Chad Ochocinco",
+            "team": "away",
+            "yards": 5
+          }
+        ]
+      },
+      "play": {
+        "type": "penalty"
+      },
+      "score": {
+        "away": 17,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3127,
+        "yards to first down": 10,
+        "yards to goal": 66
+      }
+    },
+    {
+      "number": 130,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "Delay of Game",
+            "offender": "Carson Palmer",
+            "team": "away",
+            "yards": 5
+          }
+        ]
+      },
+      "play": {
+        "type": "penalty"
+      },
+      "score": {
+        "away": 17,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3127,
+        "yards to first down": 15,
+        "yards to goal": 71
+      }
+    },
+    {
+      "number": 131,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 17,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3176,
+        "yards to first down": 20,
+        "yards to goal": 76
+      }
+    },
+    {
+      "number": 132,
+      "play": {
+        "scoring": {
+          "team": "away",
+          "type": "touchdown"
+        },
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 23,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3203,
+        "yards to first down": 10,
+        "yards to goal": 53
+      }
+    },
+    {
+      "number": 133,
+      "play": {
+        "scoring": {
+          "team": "away",
+          "type": "extra point"
+        },
+        "type": "extra point"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "offense": "away",
+        "time": 3203
+      }
+    },
+    {
+      "number": 134,
+      "play": {
+        "type": "kick off"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "offense": "home",
+        "time": 3203,
+        "yards to goal": 30
+      }
+    },
+    {
+      "number": 135,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 3219,
+        "yards to first down": 10,
+        "yards to goal": 65
+      }
+    },
+    {
+      "number": 136,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 3250,
+        "yards to first down": 2,
+        "yards to goal": 57
+      }
+    },
+    {
+      "number": 137,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 3290,
+        "yards to first down": 10,
+        "yards to goal": 53
+      }
+    },
+    {
+      "number": 138,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 3330,
+        "yards to first down": 8,
+        "yards to goal": 51
+      }
+    },
+    {
+      "number": 139,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 3,
+        "offense": "home",
+        "time": 3357,
+        "yards to first down": 4,
+        "yards to goal": 47
+      }
+    },
+    {
+      "number": 140,
+      "play": {
+        "type": "punt"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 4,
+        "offense": "home",
+        "time": 3363,
+        "yards to first down": 4,
+        "yards to goal": 47
+      }
+    },
+    {
+      "number": 141,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3372,
+        "yards to first down": 10,
+        "yards to goal": 95
+      }
+    },
+    {
+      "number": 142,
+      "penalty": {
+        "no play": true,
+        "penalties": [
+          {
+            "accepted": true,
+            "name": "Ineligible Downfield Pass",
+            "offender": "Eric Steinbach",
+            "team": "away",
+            "yards": 5
+          }
+        ]
+      },
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3408,
+        "yards to first down": 10,
+        "yards to goal": 79
+      }
+    },
+    {
+      "number": 143,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3415,
+        "yards to first down": 15,
+        "yards to goal": 84
+      }
+    },
+    {
+      "number": 144,
+      "play": {
+        "type": "complete pass"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 2,
+        "offense": "away",
+        "time": 3444,
+        "yards to first down": 12,
+        "yards to goal": 81
+      }
+    },
+    {
+      "number": 145,
+      "play": {
+        "type": "incomplete pass"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "away",
+        "time": 3480,
+        "yards to first down": 10,
+        "yards to goal": 51
+      },
+      "turnovers": [
+        {
+          "by": "away",
+          "recovered": "home",
+          "type": "interception"
+        }
+      ]
+    },
+    {
+      "number": 146,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 3489,
+        "yards to first down": 10,
+        "yards to goal": 66
+      }
+    },
+    {
+      "number": 147,
+      "play": {
+        "type": "timeout"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "offense": "home",
+        "time": 3498
+      }
+    },
+    {
+      "number": 148,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 3498,
+        "yards to first down": 10,
+        "yards to goal": 51
+      }
+    },
+    {
+      "number": 149,
+      "play": {
+        "type": "timeout"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "offense": "home",
+        "time": 3503
+      }
+    },
+    {
+      "number": 150,
+      "play": {
+        "type": "run"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 3503,
+        "yards to first down": 4,
+        "yards to goal": 45
+      }
+    },
+    {
+      "number": 151,
+      "play": {
+        "type": "kneel"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 1,
+        "offense": "home",
+        "time": 3549,
+        "yards to first down": 10,
+        "yards to goal": 33
+      }
+    },
+    {
+      "number": 152,
+      "play": {
+        "type": "kneel"
+      },
+      "score": {
+        "away": 24,
+        "home": 31
+      },
+      "state": {
+        "down": 2,
+        "offense": "home",
+        "time": 3589,
+        "yards to first down": 11,
+        "yards to goal": 34
+      }
+    }
+  ],
+  "team stats": {
+    "away": {
+      "first downs": 19,
+      "fumbles": {
+        "lost": 1,
+        "plays": 1
+      },
+      "pass": {
+        "interceptions": 1,
+        "plays": 27,
+        "successful": 18,
+        "touchdowns": 2,
+        "yards": 248
+      },
+      "penalties": {
+        "plays": 6,
+        "yards": -49
+      },
+      "rush": {
+        "plays": 28,
+        "touchdowns": 1,
+        "yards": 113
+      },
+      "sacks": {
+        "plays": 1,
+        "yards": -10
+      }
+    },
+    "home": {
+      "first downs": 24,
+      "fumbles": {
+        "lost": 1,
+        "plays": 3
+      },
+      "pass": {
+        "interceptions": 0,
+        "plays": 27,
+        "successful": 20,
+        "touchdowns": 2,
+        "yards": 224
+      },
+      "penalties": {
+        "plays": 1,
+        "yards": -7
+      },
+      "rush": {
+        "plays": 34,
+        "touchdowns": 1,
+        "yards": 219
+      },
+      "sacks": {
+        "plays": 1,
+        "yards": -5
+      }
+    }
+  },
+  "venue": {
+    "dome": false,
+    "stadium": "The Meadowlands",
+    "surface": "fieldturf"
+  },
+  "weather": {
+    "relative humidity": 0.62,
+    "temperature": 70,
+    "wind speed": 6
+  }
+}
