@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "c734f6825dca35468f303f225fff1fd826be39d5",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "TEN",
   "betting": {
     "over under": 38.0,
@@ -2790,7 +2794,14 @@
         "time": 3188,
         "yards to first down": 4,
         "yards to goal": 70
-      }
+      },
+      "turnovers": [
+        {
+          "by": "home",
+          "recovered": "away",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 153,
@@ -3287,7 +3298,7 @@
         "home": 29
       },
       "state": {
-        "offense": "home",
+        "offense": "away",
         "time": 3499
       }
     },
@@ -3301,9 +3312,9 @@
         "home": 29
       },
       "state": {
-        "offense": "home",
+        "offense": "away",
         "time": 3499,
-        "yards to goal": 75
+        "yards to goal": 25
       }
     },
     {
@@ -3315,7 +3326,7 @@
             "accepted": true,
             "name": "Encroachment",
             "offender": "Albert Haynesworth",
-            "team": "away",
+            "team": "home",
             "yards": 5
           }
         ]
@@ -3329,10 +3340,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3508,
         "yards to first down": 10,
-        "yards to goal": 66
+        "yards to goal": 34
       }
     },
     {
@@ -3346,10 +3357,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3508,
         "yards to first down": 5,
-        "yards to goal": 61
+        "yards to goal": 39
       }
     },
     {
@@ -3363,10 +3374,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3531,
         "yards to first down": 10,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -3384,10 +3395,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 3534,
         "yards to first down": 10,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -3404,7 +3415,7 @@
         "home": 36
       },
       "state": {
-        "offense": "home",
+        "offense": "away",
         "time": 3534
       }
     },
