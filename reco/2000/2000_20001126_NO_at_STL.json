@@ -1,6 +1,6 @@
 {
   "_version": {
-    "parser": "b4b3463b6cf196f35be60f1b7bb23b7d88725ce2",
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
     "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
   },
   "away team": "NO",
@@ -2502,8 +2502,8 @@
           {
             "accepted": false,
             "name": "Illegal Shift",
-            "offender": "NOR",
-            "team": null
+            "offender": "team",
+            "team": "away"
           }
         ]
       },
@@ -3601,8 +3601,8 @@
           {
             "accepted": true,
             "name": "Delay of Game",
-            "offender": "NOR",
-            "team": null,
+            "offender": "team",
+            "team": "away",
             "yards": 5
           }
         ]

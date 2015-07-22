@@ -1,6 +1,6 @@
 {
   "_version": {
-    "parser": "c734f6825dca35468f303f225fff1fd826be39d5",
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
     "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
   },
   "away team": "SD",
@@ -1122,8 +1122,8 @@
           {
             "accepted": false,
             "name": "Illegal Formation",
-            "offender": "SDG",
-            "team": null
+            "offender": "team",
+            "team": "away"
           }
         ]
       },
@@ -2134,7 +2134,7 @@
           {
             "accepted": true,
             "name": "Offensive Holding (Offsetting)",
-            "offender": "SDG",
+            "offender": "team",
             "team": "away"
           }
         ]
@@ -2870,7 +2870,7 @@
           {
             "accepted": false,
             "name": "Defensive Offside",
-            "offender": "SDG",
+            "offender": "team",
             "team": "away"
           }
         ]
